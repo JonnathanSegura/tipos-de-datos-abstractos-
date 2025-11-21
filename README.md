@@ -8,7 +8,7 @@ Incluye ejemplos desarrollados con un enfoque educativo, orientados a fortalecer
 
 Procesamiento de Cadenas
 
-## ejercicios basados en:
+ejercicios basados en:
 
 Operaciones comunes en strings
 
